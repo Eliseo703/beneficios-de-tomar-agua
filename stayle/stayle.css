@@ -1,0 +1,11 @@
+body{
+   background-color: darkcyan;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 19px;
+    background-color: aliceblue;
+    font-family: "Big Shoulders", sans-serif;
+}
